@@ -1,4 +1,66 @@
 {
+    "classesToday;": [
+        {
+            "classTitle": "Whisperers, The",
+            "description": "Other osteoporosis with current pathological fracture, right hand",
+            "time": "4:44 PM",
+            "date": "5/18/2022"
+        },
+        {
+            "classTitle": "Dreamworlds II: Desire, Sex, Power in Music Video",
+            "description": "Severely displaced Zone II fracture of sacrum, sequela",
+            "time": "2:58 PM",
+            "date": "12/9/2022"
+        },
+        {
+            "classTitle": "Hannah Montana: The Movie",
+            "description": "Intracerebral (nontraumatic) hemorrhage of newborn",
+            "time": "1:09 AM",
+            "date": "8/31/2022"
+        },
+        {
+            "classTitle": "Clubbed",
+            "description": "Puncture wound with foreign body of right great toe without damage to nail, sequela",
+            "time": "9:10 PM",
+            "date": "1/12/2023"
+        },
+        {
+            "classTitle": "L'enfance nue (Naked Childhood)",
+            "description": "Foreign body in esophagus",
+            "time": "1:32 AM",
+            "date": "2/26/2022"
+        },
+        {
+            "classTitle": "Magadheera",
+            "description": "Stenosis due to nervous system prosthetic devices, implants and grafts, initial encounter",
+            "time": "1:53 AM",
+            "date": "6/9/2022"
+        },
+        {
+            "classTitle": "Righteous Kill",
+            "description": "Adverse effect of caffeine, initial encounter",
+            "time": "12:59 AM",
+            "date": "11/22/2022"
+        },
+        {
+            "classTitle": "Snow (Snijeg)",
+            "description": "Displaced fracture of medial condyle of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion",
+            "time": "11:45 AM",
+            "date": "7/29/2022"
+        },
+        {
+            "classTitle": "Rules of the Game, The (La règle du jeu)",
+            "description": "Esophageal obstruction",
+            "time": "6:45 AM",
+            "date": "3/29/2022"
+        },
+        {
+            "classTitle": "Surprise",
+            "description": "Person on outside of military vehicle injured in traffic accident, initial encounter",
+            "time": "11:20 PM",
+            "date": "1/14/2023"
+        }
+    ],
     "upcomingclasses": [
         {
             "classTitle": "Tu£sday",
